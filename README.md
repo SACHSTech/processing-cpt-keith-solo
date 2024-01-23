@@ -1,5 +1,2 @@
-[![Review Assignment Due Date](https://classroom.github.com/assets/deadline-readme-button-24ddc0f5d75046c5622901739e7c5dd533143b0c8e959d652212380cedb1ea36.svg)](https://classroom.github.com/a/eALKwJKC)
-[![Open in Visual Studio Code](https://classroom.github.com/assets/open-in-vscode-718a45dd9cf7e7f842a935f5ebbe5719a5e09af4491e668f4dbf3b35d5cca122.svg)](https://classroom.github.com/online_ide?assignment_repo_id=13386294&assignment_repo_type=AssignmentRepo)
-# Program Title (edit this)
-
-Put your program description here.
+Tetris!
+A Fast Paced 2d game where different shapes fall down from the sky. Your goal is to rotate and move the shapes so that they all fit in one line. When this line is formed, you gain 100 points and all the blocks in this line dissapear. Your goal in this game is to survive as long as you can. The more points you have the higher level you are. The higher level you are, the more the difficulty increases. Every 500 points is a new level. The user uses the arrow keys on the keyboard as input commands to move and rotate the shapes. The scoring system in this game is based off of the amount of lines you break just like in regular tetris. There are no limitations in this game other than the amount of shapes there are.
